@@ -1,1 +1,1 @@
-# OpenGl-Projects
+# OpenGl-Projects, C++, GLUT
